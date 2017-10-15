@@ -51,5 +51,5 @@ while diff > 1e-2:
   error = current_error
   # ログの出力
   count += 1
-  log = '{}回目 : theta0 = {:.3f}, theta1 = {:.3f}, 差分 = {:.f4}'
+  log = '{}回目 : theta0 = {:.3f}, theta1 = {:.3f}, 差分 = {:.4f}'
   print(log.format(count, theta0, theta1, diff))

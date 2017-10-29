@@ -19,5 +19,5 @@ lin.fit(data_train,target_train)
 print("Score :{}".format(lin.score(data_test,target_test)))
 
 # 最初の評価曜データについて結果を予想して、実際の値と並べて表示
-print("Prediction :" + format(lin.predict(data_test[0]))) #予想
+print("Prediction :", lin.predict(data_test[0])) #予想
 print("Actual value :{}".format(target_test[0])) #予想

@@ -1,4 +1,4 @@
-# machine-learning
+# ML Training
 学習用
 
 Jupyter Notebookを使う

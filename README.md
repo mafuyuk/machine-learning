@@ -1,4 +1,4 @@
-# machine-learning
+# ML Training
 学習用
 
 Jupyter Notebookを使う
@@ -6,3 +6,5 @@ Jupyter Notebookを使う
 ```bash
 jupyter notebook
 ```
+
+またはGCPのdatalabを使う

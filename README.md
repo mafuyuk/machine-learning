@@ -6,3 +6,5 @@ Jupyter Notebookを使う
 ```bash
 jupyter notebook
 ```
+
+またはGCPのdatalabを使う

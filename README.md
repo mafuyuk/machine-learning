@@ -1,6 +1,7 @@
 # ML Training
-学習用
+機会学習のトレーニング用
 
+# 学習方法
 Jupyter Notebookを使う
 
 ```bash
